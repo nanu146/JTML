@@ -1,0 +1,23 @@
+{
+  "name": "jtml",
+  "version": "1.0.0",
+  "description": "JSON to HTML Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanu146/JTML.git"
+  },
+  "keywords": [
+    "JSON",
+    "HTML"
+  ],
+  "author": "Bharadwaj Kopparthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanu146/JTML/issues"
+  },
+  "homepage": "https://github.com/nanu146/JTML#readme"
+}
